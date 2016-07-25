@@ -1,0 +1,18 @@
+{
+  "search_queries": [["RT", "retweet"], ["contest", "win"]],
+  "blacklisted_keywords": "-wallpapers -banner -avatar -dm",
+  "blacklisted_words_in_tweet": ["wallpaper", "render", "banner", "avatar", "skin", "facebook"],
+  "blacklisted_countries": ["canada", "london", "UK"],
+  "blocked_users": ["test1"],
+  "find_contests_from_users": [],
+  "copy_tweets_from_users": [],
+  "fav_keywords": ["fav ", "like"],
+  "minimum_retweets": 5,
+  "maximum_days_old_tweet": 7,
+  "database_name": "db.sqlite",
+  "seconds_wait_between_tweets": [30, 60],
+  "consumer_key": "",
+  "consumer_secret": "",
+  "access_token_key": "",
+  "access_token_secret": ""
+}
